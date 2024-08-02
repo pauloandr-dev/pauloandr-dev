@@ -34,4 +34,4 @@
 
 ## Contato:
 - 📧Email: pauloatdias@gmail.com
-- 📱Contato:(61) 996125157
+- 📱Telefone:(61) 996125157
