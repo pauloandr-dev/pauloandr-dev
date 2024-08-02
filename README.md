@@ -33,8 +33,5 @@
 </div><br/>
 
 ## Contato:
-
-<div style="display: inline_block"><br>
- -📧Email: pauloatdias@gmail.com
- -📱Contato:(61) 996125157
-</div>
+- 📧Email: pauloatdias@gmail.com
+- 📱Contato:(61) 996125157
