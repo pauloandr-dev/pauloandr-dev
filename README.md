@@ -31,3 +31,7 @@
     <img align="center" alt="Linux Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
     <img align="center" alt="Kali Linux" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div><br/>
+
+## Contato:
+ -📧Email: pauloatdias@gmail.com
+ -📱Contato:(61) 996125157
